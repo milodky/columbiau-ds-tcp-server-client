@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0",
+			"file_exclude_patterns": ["*.sublime-*", "tcp_client", "tcp_server"]
+		}
+	]
+}

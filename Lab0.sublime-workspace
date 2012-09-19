@@ -1,0 +1,476 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tcp",
+				"tcp_client"
+			],
+			[
+				"file",
+				"file_size"
+			],
+			[
+				"file_",
+				"file_buffer"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"by",
+				"bytesRead"
+			],
+			[
+				"fil",
+				"file_buffer"
+			],
+			[
+				"FILE",
+				"FILE_BLOCK"
+			],
+			[
+				"fie",
+				"file_size"
+			],
+			[
+				"fi",
+				"file_size"
+			],
+			[
+				"fatal",
+				"fatalPError"
+			],
+			[
+				"clie",
+				"client_sockfd"
+			],
+			[
+				"sock",
+				"sockfd"
+			],
+			[
+				"client",
+				"client_sockfd"
+			],
+			[
+				"reque",
+				"requested_file"
+			],
+			[
+				"por",
+				"server_port"
+			],
+			[
+				"server",
+				"server_sockaddr"
+			],
+			[
+				"listen",
+				"listen_port"
+			],
+			[
+				"INA",
+				"INET_ADDRSTRLEN"
+			],
+			[
+				"cl",
+				"client_addr_str"
+			],
+			[
+				"so",
+				"sockaddr_in"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"dst",
+				"dstSockaddr"
+			],
+			[
+				"dstS",
+				"dstSockaddr"
+			],
+			[
+				"sockaddr",
+				"sockaddr_in"
+			],
+			[
+				"loca",
+				"local_inaddrr"
+			],
+			[
+				"soc",
+				"sockfd"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tcp_server.cpp",
+			"settings":
+			{
+				"buffer_size": 5403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "common.cpp",
+			"settings":
+			{
+				"buffer_size": 1112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 256,
+				"line_ending": "Unix",
+				"name": "all: splitter client agent"
+			}
+		},
+		{
+			"file": "common.h",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tcp_client.cpp",
+			"settings":
+			{
+				"buffer_size": 5030,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/lab0.html",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/Lab0.sublime-project",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/server.cpp",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/udpclient.cpp",
+		"/Users/aiman/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/aiman/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/server.c",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/server_documented.c",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/run_server",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/run_client",
+		"/Users/aiman/Dropbox/Columbia/Fund of Distributed Systems/Labs/Lab0/client.c"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BUFFER_SIZE",
+			"readLine",
+			"printf",
+			"file_buffer",
+			"file_buff",
+			"buffer_point",
+			"file_buff",
+			"printf(\"Rea",
+			"Read ",
+			"MAX_FILE_SIZE",
+			"file_buffer",
+			"file_size",
+			"file_buffer",
+			"full_path",
+			"local_dir",
+			"local_d",
+			"file_name",
+			"local_dir",
+			"strcpy",
+			"file_buffer",
+			"fatalError",
+			"client has ",
+			"fatalError",
+			"lengt",
+			"readLine",
+			"buffer",
+			"per",
+			"client_addr",
+			"PORT_NUMBER",
+			"client_addr_str",
+			"local_addr",
+			"local_inaddr",
+			"in_addr",
+			"cli_addr",
+			"clilen",
+			"accept",
+			"c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fatalPError",
+			"listen_sockaddr",
+			"listen_addr"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tcp_server.cpp",
+					"settings":
+					{
+						"buffer_size": 5403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1350.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "common.cpp",
+					"settings":
+					{
+						"buffer_size": 1112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1109,
+								1109
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 187.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"auto_name": "all: splitter client agent",
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "common.h",
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								27
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "tcp_client.cpp",
+					"settings":
+					{
+						"buffer_size": 5030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/aiman/Dropbox/Columbia/Network Security/Homework1/Programming/Homework1.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
